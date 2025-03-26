@@ -1,0 +1,10 @@
+{
+  "name": "fe-theme",
+  "version": "0.1.0",
+  "description": "A React UI library using styled-component to build consistent, responsive, theme able UI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
